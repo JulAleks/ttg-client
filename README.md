@@ -1,7 +1,7 @@
 # ttg-client
 
 [![CI](https://github.com/tabletop-generator/client/actions/workflows/ci.yml/badge.svg)](https://github.com/tabletop-generator/client/actions/workflows/ci.yml)
-
+Video walkthrough: https://drive.google.com/file/d/1x01ED85BkDTK7AC-U255N2trV-H_y1HX/view?usp=drive_link
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
